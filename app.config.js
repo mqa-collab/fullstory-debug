@@ -12,7 +12,6 @@ const config = {
       bundleIdentifier: 'com.xxxxxxxxxxxxxxxxxxxxxxxx.fullstorydebug',
     },
     plugins: [
-      './expo-plugins/withFullstoryBatchRenderingPlugin',
       [
         '@fullstory/react-native',
         {
